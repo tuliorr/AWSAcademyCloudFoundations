@@ -29,6 +29,20 @@
 
 ### Section 2 - Cloud Computing Advantages
 
+* Investment in physical datacenters is based on usage forecasts, so hardware can be idle
+
+* Physical server capacity can be overestimated or underestimated when server utilization fluctuates
+
+* For the cloud environment, only what is consumed is paid, offering elasticity to the customer, that is, resources can be increased or reduced quickly and practically.
+
+* Speed, agility and lower cost for applying new features
+
+* Focus on the business and customers instead of operating in datacenters
+
+* Easier deployment in different regions around the world, offering lower latency and better customer experience
+
+* Hundreds of thousands of customers aggregated in the cloud result in economies of scale, that is, the customer gains from cost reduction
+
 ### Section 3 - Introduction to Amazon Web Services (AWS)
 
 ### Section 4 - Change to AWS Cloud - AWS Cloud Adoption Framework (AWS CAF)
