@@ -32,21 +32,21 @@
 
 * AWS focus in operational expenses instead capital
 * Main services:
- * ``AMAZON EC2`` : COMPLETE CONTROL OVER AWS COMPUTING RESOURCES/INFRASTRUCTURE
- * ``AWS LAMBDA`` : RUN CODE AND AND NOT MANAGE OR PROVISION SERVERS
- * ``AWS ELASTIC BEANSTALK`` : PROVISION A SERVICE THA DEPLOYS, MANAGES AND SCALE AUTOMATICALLY WEB APLICATIONS
- * ``AMAZON LIGHTSAIL`` : CLOUD PLATFORM FOR A SIMPLE WEB APLICATION
- * ``AWS BATCH`` : TO RELIABLY RUN THOUSANDS OF BATCH WORKLOADS
- * ``AWS OUTPOSTS`` : RUN AWS INFRASTRUCTURE IN LOCAL DATACENTERS
- * ``AMAZON ECS, EKS OR AWS FARGATE`` : IMPLEMENTATION OF CONTAINERS OR MICROSERVICES ARCHITECTURE
- * ``VMware Cloud on AWS`` : LOCAL VIRTUALIZATION PLATFORM MIGRATION TO AWS
+  * ``AMAZON EC2`` : complete control over aws computing resources/infrastructure
+  * ``AWS LAMBDA`` : run code and and not manage or provision servers
+  * ``AWS ELASTIC BEANSTALK`` : provision a service tha deploys, manages and scale automatically web aplications
+  * ``AMAZON LIGHTSAIL`` : cloud platform for a simple web aplication
+  * ``AWS BATCH`` : to reliably run thousands of batch workloads
+  * ``AWS OUTPOSTS`` : run AWS infrastructure in local datacenters
+  * ``AMAZON ECS, EKS OR AWS FARGATE`` : implementation of containers or microservices architecture
+  * ``VMware Cloud on AWS`` : local virtualization platform migration to AWS
 * Service categories
- * Database, computing, storage, networks, content delivery, security, identity, compliance, management and governance and cost management
+  * Database, computing, storage, networks, content delivery, security, identity, compliance, management and governance and cost management
 
 * 3 main ways to access and create the aws ecosystem (created using an app programming interface like REST)
- * AWS Management Console : ADVANCED GRAPHIC USER INTERFACE WEB BROWSER
- * AWS Command Line Interface (AWS CLI) : ACCESSING SERVICES BY COMMANDS OR SPECIFIC SCRIPTS WITH THE AWS ECOSYSTEM USING LINUX, macOS OR WINDOWS
- * Tools to Build on AWS (SDKs) : ACCESSING SERVICES DIRECTLY FROM YOUR CODE (JAVA, PYTHON, ETC) THROUGH PACKAGES PROVIDED BY AWS
+  * ``AWS Management Console`` : advanced graphic user interface web browser
+  * ``AWS Command Line Interface (AWS CLI)`` : accessing services by commands or specific scripts with the AWS ecosystem using linux, macOS or windows
+  * ``Tools to Build on AWS (SDKs)`` : accessing services directly from your code (java, python, etc) through packages provided by AWS
 
 ### Section 4 - Change to AWS Cloud - AWS Cloud Adoption Framework (AWS CAF)
 
