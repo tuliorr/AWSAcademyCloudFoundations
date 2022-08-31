@@ -39,9 +39,9 @@
 
 * Focus on the business and customers instead of operating in datacenters
 
-* Easier deployment in different regions around the world, offering lower latency and better customer experience
+* **Easier deployment** in different regions around the world, offering lower latency and better customer experience
 
-* Hundreds of thousands of customers aggregated in the cloud result in economies of scale, that is, the customer gains from cost reduction
+* Hundreds of thousands of customers aggregated in the cloud result in **economies of scale**, that is, the customer gains from cost reduction
 
 ### Section 3 - Introduction to Amazon Web Services (AWS)
 
