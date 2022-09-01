@@ -50,4 +50,12 @@
 
 ### Section 4 - Change to AWS Cloud - AWS Cloud Adoption Framework (AWS CAF)
 
+* Guidance and best practices to help organizations create a approach to cloud computing for the whole organization to accelerate successful cloud adoption
+* Perspectives:
+
+![rep](/images/perspectives.png)
+
+* Each perspective consists of a set of resources covering different managed responsibilities owned by multifuncional teams
+* Resources are used to identify which areas require attetion and when identifying gaps, prescriptive workflows are created that support a well journey successful for the cloud
+
 ## Module 2 - Cloud Savings and Billing
